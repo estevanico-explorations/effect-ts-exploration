@@ -1,0 +1,17 @@
+# Related / Misc
+- What are fibers?
+  - As for an explaination in the Discord:
+    - In kindergarten terms with
+    - Realworld example
+    - Benefits & Drawbacks
+    - An analogue in a different framework
+  - [Fibers – Effect Docs](https://effect.website/docs/guides/concurrency/fibers)
+- Services, huh?
+  - 
+- Dependency Injection / IoC
+  - [Layers](https://effect-ts.github.io/effect/effect/Layer.ts.html)?
+  - [Managing Services](https://effect.website/docs/guides/context-management/services)
+  - [Managing Service Dependencies](https://effect.website/docs/guides/context-management/layers)
+  - [Dependency Memoization](https://effect.website/docs/guides/context-management/dependency-memoization)
+- Pattern Matching
+- Utilities (see: [`Ramda`](https://ramdajs.com/docs/))
