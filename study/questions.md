@@ -22,3 +22,8 @@
 - Validation
   - Data
   - Schema
+
+
+- Difference between `Effect.gen` and `Effect.pipe`
+- Why `generators` then `async/await`
+- Difference between a service and a utility function?
