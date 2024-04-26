@@ -11,3 +11,4 @@ This repo contains my efforts learning the ins-and-outs of the `Effect` library.
 
 ## Learning Outcomes
 - [Glossary](./study/glossary.md)
+- [TypeScript](./study/typescript.md)

@@ -1,9 +1,9 @@
 # Links
 ## Projects
 - [Effect introduction about the whys, helping transitioning from raw TypeScript to Effect TypeScript](https://github.com/antoine-coulon/effect-introduction)
-- [datner/effect-remix](https://github.com/datner/effect-remix/)
-- [pigoz/effect-crashcourse](https://github.com/pigoz/effect-crashcourse)
-- [effect-ts-app/boilerplate](https://github.com/effect-ts-app/boilerplate)
+- [`datner/effect-remix`](https://github.com/datner/effect-remix/)
+- [`pigoz/effect-crashcourse`](https://github.com/pigoz/effect-crashcourse)
+- [`effect-ts-app/boilerplate`](https://github.com/effect-ts-app/boilerplate)
 
 ## Articles
 - [My impressions on Effect-TS](https://dnlytras.com/blog/effect-ts)
@@ -26,9 +26,10 @@
 - [Introduction to Effect 2022](https://www.youtube.com/watch?v=zrNr3JVUc8I)
 - [Effect: Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s)
 - [Effect: Typescript That Scales](https://www.youtube.com/watch?v=4ARWCmnjO0w)
+  - Has some nifty thoughts on `class`es and why bad
 - [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk)
 - [Effect: Fibers](https://www.youtube.com/watch?v=uwALExyq4NY)
-- [Solving the distributed schema problem with @effect/schema](https://www.youtube.com/watch?v=o-SvvUA7hik) (35min)
-- [How to Sign for Effect @effect-ts](https://www.youtube.com/watch?v=4FZqme-z8SQ)
-
+- [Solving the distributed schema problem with `@effect/schema`](https://www.youtube.com/watch?v=o-SvvUA7hik) (35min)
+- [How to Sign for Effect `@effect-ts`](https://www.youtube.com/watch?v=4FZqme-z8SQ)
+- [The TypeScript Library You've Been Waiting For](https://www.youtube.com/watch?v=X98vwMYxRXw)
 
