@@ -11,3 +11,5 @@
     - [A Guide to Scala's Higher Kinded Types](https://reintech.io/blog/guide-to-scalas-higher-kinded-types)
 - Lenses
 - Type Classes
+- Combinators
+

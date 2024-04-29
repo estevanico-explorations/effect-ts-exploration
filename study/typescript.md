@@ -15,6 +15,15 @@ Things I have or plan to learn about `TypeScript`. I know and understand `TypeSc
 
 ## Generics
 
+## Organize
+- [Implementing function overloading in TypeScript - LogRocket Blog](https://blog.logrocket.com/implementing-function-overloading-typescript/#what-is-function-overloading)
+- [Learn TypeScript: Complex Types Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-complex-types/cheatsheet)
+- [Learn TypeScript: Functions Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-typescript/modules/typescript-functions/cheatsheet)
+- [Learn TypeScript: Advanced Object Types Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-advanced-object-types/cheatsheet)
+- [Learn TypeScript: Type Narrowing Cheatsheet | Codecademy](https://www.codecademy.com/learn/learn-typescript/modules/learn-typescript-type-narrowing/cheatsheet)
+- [TypeScript Type Inference: A Comprehensive Guide | by Mohammed Sahil | Medium](https://medium.com/@sahil90085/typescript-type-inference-a-comprehensive-guide-40c888c6d78f)
+- [the typeclass model offers superior extensibility - microsoft/TypeScript](https://github.com/microsoft/TypeScript/issues/10844)
+
 ---
 ## Reference Links
 - [Typeclasses in Typescript](https://paulgray.net/typeclasses-in-typescript)

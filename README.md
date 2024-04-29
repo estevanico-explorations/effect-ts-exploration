@@ -5,7 +5,7 @@ This repo contains my efforts learning the ins-and-outs of the `Effect` library.
 - [Exploration Path](./study/exploration-path.md)
 - [Questions](./study/questions.md)
 - [Conceptual Questions](./study/conceptual-questions.md)
-- [Related Exploration](./study/related.md)
+- [Functional Programming](./study/functional-programming.md)
 - [Guides or Examples](./study/guides-examples.md)
 - [Links](./study/links.md)
 
