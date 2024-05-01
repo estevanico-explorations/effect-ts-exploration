@@ -6,12 +6,13 @@
 - [`effect-ts-app/boilerplate`](https://github.com/effect-ts-app/boilerplate)
 - [`ethanniser/effect-workshop`](https://github.com/ethanniser/effect-workshop)
 
-## Articles
+## Articles & Discussions
 - [My impressions on Effect-TS](https://dnlytras.com/blog/effect-ts)
 - [A bright future for Effect](https://dev.to/effect/a-bright-future-for-effect-455m)
 - [Effect 3.0 – Effect Blog](https://effect.website/blog/effect-3.0)
   - Also has links to workshops and repos to learn from
 - [Quick Thoughts on Effect-TS](https://www.linkedin.com/pulse/quick-thoughts-effect-ts-jesse-warden/)
+- [opinions about Effect-TS, do you recommend using it? when to use it? When to avoid it? not worth it?](https://www.reddit.com/r/typescript/comments/16w3iwn/opinions_about_effectts_do_you_recommend_using_it/)
 
 ## Discord Questions
 - [How does `match` work?[(https://discord.com/channels/795981131316985866/795983589644304396/1233318947600863264)
@@ -30,15 +31,11 @@
   - [Part 5: Software Transactional Memory](https://ybogomolov.me/05-effect-stm)
 
 ## Videos
-- [Introduction to Effect 2022](https://www.youtube.com/watch?v=zrNr3JVUc8I)
-- [Effect: Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s)
-- [Effect Workshop: Beginner / Intermediate [4hrs]](https://www.youtube.com/watch?v=Lz2J1NBnHK4)
-  - Sources → [`ethanniser/effect-workshop`](https://github.com/ethanniser/effect-workshop)
-- [Effect: Typescript That Scales](https://www.youtube.com/watch?v=4ARWCmnjO0w)
-  - Has some nifty thoughts on `class`es and why bad
-- [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk)
-- [Effect: Fibers](https://www.youtube.com/watch?v=uwALExyq4NY)
-- [Solving the distributed schema problem with `@effect/schema`](https://www.youtube.com/watch?v=o-SvvUA7hik) (35min)
-- [How to Sign for Effect `@effect-ts`](https://www.youtube.com/watch?v=4FZqme-z8SQ)
-- [The TypeScript Library You've Been Waiting For](https://www.youtube.com/watch?v=X98vwMYxRXw)
-- [Writing Type-Level programs in TypeScript | Talks at DeepSource - YouTube](https://www.youtube.com/watch?v=xI2GgCjAMXc)
+- [`04h:20m`]: [Effect Workshop: Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4)
+- [`00h:35m`]: [Effect: Fibers](https://www.youtube.com/watch?v=uwALExyq4NY)
+- [`00h:35m`]: [Solving the distributed schema problem with `@effect/schema`](https://www.youtube.com/watch?v=o-SvvUA7hik) (35min)
+- [`00h:20m`]: [The TypeScript Library You've Been Waiting For](https://www.youtube.com/watch?v=X98vwMYxRXw)
+- [`00h:30m`]: [Writing Type-Level programs in TypeScript | Talks at DeepSource - YouTube](https://www.youtube.com/watch?v=xI2GgCjAMXc)
+- ~~[`00h:30m`]: [Effect: Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s)~~
+- ~~[`00h:08m`]: [Effect: Typescript That Scales](https://www.youtube.com/watch?v=4ARWCmnjO0w)~~
+- ~~[`00h:10m`]: [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk)~~
