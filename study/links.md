@@ -32,10 +32,11 @@
 
 ## Videos
 - [`04h:20m`]: [Effect Workshop: Beginner / Intermediate](https://www.youtube.com/watch?v=Lz2J1NBnHK4)
+- [`01h:12m`]: [Working on Effect Cluster](https://www.youtube.com/watch?v=FMXJYU4Jru4)
 - [`00h:35m`]: [Effect: Fibers](https://www.youtube.com/watch?v=uwALExyq4NY)
-- [`00h:35m`]: [Solving the distributed schema problem with `@effect/schema`](https://www.youtube.com/watch?v=o-SvvUA7hik) (35min)
+- [`00h:35m`]: [Solving the distributed schema problem with `@effect/schema`](https://www.youtube.com/watch?v=o-SvvUA7hik)
 - [`00h:20m`]: [The TypeScript Library You've Been Waiting For](https://www.youtube.com/watch?v=X98vwMYxRXw)
-- [`00h:30m`]: [Writing Type-Level programs in TypeScript | Talks at DeepSource - YouTube](https://www.youtube.com/watch?v=xI2GgCjAMXc)
+- [`00h:30m`]: [Writing Type-Level programs in TypeScript](https://www.youtube.com/watch?v=xI2GgCjAMXc)
 - ~~[`00h:30m`]: [Effect: Beginners](https://www.youtube.com/watch?v=fTN8BX5qj6s)~~
 - ~~[`00h:08m`]: [Effect: Typescript That Scales](https://www.youtube.com/watch?v=4ARWCmnjO0w)~~
 - ~~[`00h:10m`]: [Effect: Next-Generation Typescript](https://www.youtube.com/watch?v=SloZE4i4Zfk)~~
