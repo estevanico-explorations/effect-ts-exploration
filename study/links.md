@@ -15,7 +15,7 @@
 - [opinions about Effect-TS, do you recommend using it? when to use it? When to avoid it? not worth it?](https://www.reddit.com/r/typescript/comments/16w3iwn/opinions_about_effectts_do_you_recommend_using_it/)
 
 ## Discord Questions
-- [How does `match` work?][(https://discord.com/channels/795981131316985866/795983589644304396/1233318947600863264)
+- [How does `match` work?](https://discord.com/channels/795981131316985866/795983589644304396/1233318947600863264)
 - [APIs w/rate limits](https://discord.com/channels/795981131316985866/795983589644304396/1233273995642667029)
 - [Example Repos](https://discord.com/channels/795981131316985866/795983589644304396/1233339526647119973)
 - [Doing something 0 -> n times](https://discord.com/channels/795981131316985866/795983589644304396/1233357296977842267)
